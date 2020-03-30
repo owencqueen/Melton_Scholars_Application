@@ -1,5 +1,6 @@
 # Melton_Scholar_Application
-Application for Melton Scholarship in UTK Business Analytics and Statistics Department
+Application for Melton Scholarship in UTK Business Analytics and Statistics Department.
+Owen Queen, email: oqueen@vols.utk.edu
 
 ## Running the code
 To view and run the code I used to write my report, follow these steps:
