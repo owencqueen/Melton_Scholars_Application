@@ -1,6 +1,7 @@
-# Melton_Scholar_Application
-Application for Melton Scholarship in UTK Business Analytics and Statistics Department.
-Owen Queen, email: oqueen@vols.utk.edu
+# Melton Scholar Application
+Application for Melton Scholarship in UTK Business Analytics and Statistics Department. <br/>
+Owen Queen, email: owencqueen@hotmail.com <br/>
+If you want to view the final report, see airport_delay_minicase_writeup_final.docx
 
 ## Running the code
 To view and run the code I used to write my report, follow these steps:
