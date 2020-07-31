@@ -4,6 +4,8 @@ Owen Queen, email: owencqueen@hotmail.com <br/>
 If you want to view the final report, see [melton_scholar_report.pdf](https://github.com/owencqueen/Melton_Scholars_Application/blob/master/melton_scholar_report.pdf). </br>
 To view the problem statement for this project, click [here](https://haslam.utk.edu/sites/default/files/AirplaneDelayMiniCase.pdf). 
 
+**Note: I withdrew my application for this scholarship in May 2020 based on conflicts with other research schedules.**
+
 ## Running the code
 To view and run the code I used to write my report, follow these steps:
 
